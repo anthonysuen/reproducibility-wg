@@ -15,5 +15,7 @@ Current members:
 - [@fperez](Fernando Perez),
 - [@nickbadams](Nicholas B. Adams),
 - [@kbarbary](Kyle Barbary),
-- [@postfalk](Falk Schuetzenmeister), and
+- [@postfalk](Falk Schuetzenmeister), 
+- [@anthonysuen](Anthony Suen),
+- and
 - Erik Mitchell
